@@ -42,7 +42,3 @@ The goal of this project is to convert raw customer data into meaningful busines
 2. Open the notebook in **Google Colab**  
 3. Upload the CSV file when prompted  
 4. Run all cells to view analysis and visualizations  
-
----
-
-## 📁 Project Structure
